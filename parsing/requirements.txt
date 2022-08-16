@@ -1,0 +1,4 @@
+requests
+BeautifulSoup
+bz2
+pickle
